@@ -24,7 +24,7 @@
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
                 <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
-                <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white">Andika Ainur Wibowo</h1></div>
+                <div class="ml-4 text-lg leading-7 font-semibold"><h1 class="text-gray-900 dark:text-white">Andika Ainur</h1></div>
                 </div>
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
